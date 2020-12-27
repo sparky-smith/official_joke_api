@@ -3,7 +3,7 @@
 ## Endpoints:
 
 ### Grab a random joke!
-[https://official-joke-api.appspot.com/random_jok](https://official-joke-api.appspot.com/random_jok)
+[https://official-joke-api.appspot.com/random_joke](https://official-joke-api.appspot.com/random_joke)
 
 
 [https://official-joke-api.appspot.com/jokes/random](https://official-joke-api.appspot.com/jokes/random)
